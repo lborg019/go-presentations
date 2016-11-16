@@ -420,6 +420,17 @@ Demo/Code:
 Demo/Paper:
 .link https://www.graphics.rwth-aachen.de/publication/03266/ RWTH-Aachen
 
+* Addendum:
+
+More on Lloyd Relaxations for Centroidal Voronoi Relaxation (CVT) and Delaunay Quadrangulation for Variational Remeshing.
+
+.link https://processing.org/ Processing
+.link http://toxiclibs.org/ toxiclibs for Processing
+.link https://en.wikipedia.org/wiki/Lloyd%27s_algorithm Lloyd's Algorithm (Wikipedia)
+.link https://github.com/lborg019/processing-voronoi/tree/toxiclib Lloyd Relaxation
+.link http://www.cs.sandia.gov/~samitch/papers/delaunay-quad.pdf Delaunay Quadrangulation
+.link https://github.com/baldurk/renderdoc Renderdoc
+
 * References:
 .link http://alice.loria.fr/publications/papers/2012/QuadStar_EG/STAR_quad_meshing.pdf Bommes, David et al.
 .link http://www.pmp-book.org/ Botsch, Kobbelt et al.
